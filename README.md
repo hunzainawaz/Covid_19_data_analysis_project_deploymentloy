@@ -1,2 +1,2 @@
-# Covid_19_data_analysis_project_deploymentloy
+# Covid_19_data_analysis_project_deployment
 In this project i try to analysis and deployment those country which has maximum total cases, Deaths, Recovered and active cases as well as try to create TreeMap Representation of our data. Try to find out what is ther tend of confirmed deaths Recovered Active cases. To find out the most 20 effected countries, representation of population to tests Done Ratios  ​ like Deaths to Confirmed ratio, Deaths to recovered ratio, Tests to Confirmed Ratio and Serious to Deaths Ratio. Finally try to Visualize Confirmed, Active, Recovered , Deaths Cases(entire statistics ) of a particular country.
